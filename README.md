@@ -2,9 +2,9 @@
 
 **DATE:** 12.05.2025
 
-**NAME:** PRIDEESH M
+**NAME:** PRAVISH J
 
-**REG NO:** 212223040154
+**REG NO:** 21222404049
 
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography

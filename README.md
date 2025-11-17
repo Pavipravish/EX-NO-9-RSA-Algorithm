@@ -1,11 +1,6 @@
 # EX-NO-9-RSA-Algorithm
-
-**DATE:** 12.05.2025
-
-**NAME:** PRAVISH J
-
-**REG NO:** 21222404049
-
+# NAME : PRAVISH J
+# REF NO: 212224040249
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
 
@@ -42,6 +37,7 @@ Step 5: **Security Foundation
 The security of RSA relies on the difficulty of factoring large numbers; thus, choosing sufficiently large prime numbers for \( p \) and \( q \) is crucial for security.
 
 ## Program:
+
 ```
 #include <stdio.h>
 #include <math.h>
@@ -123,7 +119,8 @@ int main() {
 
 ## Output:
 
-![Screenshot 2025-05-12 134940](https://github.com/user-attachments/assets/9e2fb750-fa04-4a2d-a3e6-38eda866c33f)
+<img width="911" height="491" alt="image" src="https://github.com/user-attachments/assets/346bc9c6-4d0b-4e75-881f-c7f47da8c20f" />
+
 
 ## Result:
  The program is executed successfully.
